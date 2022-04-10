@@ -1,59 +1,59 @@
 <mxfile host="65bd71144e">
     <diagram id="tase5WoHl9KiyGnay1Oc" name="Страница 1">
-        <mxGraphModel dx="820" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="820" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="34" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="33">
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="10" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="370" y="300" as="sourcePoint"/>
                         <mxPoint x="370" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="10" value="&lt;div class=&quot;Translate-Scroll&quot; style=&quot;position: absolute ; z-index: 9 ; width: 7px ; height: 275px ; cursor: default ; top: 3px ; right: 2px ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 24px ; background-color: rgba(0 , 0 , 0 , 0.04)&quot;&gt;&lt;br&gt;&lt;div class=&quot;Translate-ScrollBar&quot; style=&quot;position: absolute ; top: 0px ; width: 6px ; height: 0px ; opacity: 0.4 ; border-radius: 5px ; transition: all 0.1s ease-out 0s&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Вика&lt;/div&gt;&lt;div&gt;greeting.py: greet&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+                <mxCell id="10" value="&lt;div class=&quot;Translate-Scroll&quot; style=&quot;position: absolute ; z-index: 9 ; width: 7px ; height: 275px ; cursor: default ; top: 3px ; right: 2px ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 24px ; background-color: rgba(0 , 0 , 0 , 0.04)&quot;&gt;&lt;br&gt;&lt;div class=&quot;Translate-ScrollBar&quot; style=&quot;position: absolute ; top: 0px ; width: 6px ; height: 0px ; opacity: 0.4 ; border-radius: 5px ; transition: all 0.1s ease-out 0s&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Вика&lt;/div&gt;&lt;div&gt;greeting.py: greet&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="240" width="300" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="edgeStyle=none;html=1;entryX=0.575;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="11" target="12">
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;entryX=0.575;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="11" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="11" target="14">
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="&lt;span&gt;Настя&lt;br&gt;input_output.py: introduction_exp,&amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-                    <mxGeometry x="220" y="320" width="300" height="60" as="geometry"/>
+                <mxCell id="11" value="&lt;p style=&quot;line-height: 19px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;Настя&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;input_output.py:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;view_data&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;get_value&lt;br&gt;&lt;/font&gt;get_complex_value&lt;br&gt;&lt;font&gt;get_action&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="320" width="300" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1" source="12" target="16">
+                <mxCell id="20" style="edgeStyle=none;html=1;" parent="1" source="12" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Аня&lt;br&gt;complex.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-                    <mxGeometry x="20" y="400" width="300" height="60" as="geometry"/>
+                <mxCell id="12" value="Аня&lt;br&gt;complex.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="510" width="300" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="16">
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;" parent="1" source="14" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Георгий&lt;br&gt;rational.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-                    <mxGeometry x="380" y="400" width="300" height="60" as="geometry"/>
+                <mxCell id="14" value="Георгий&lt;br&gt;rational.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="510" width="300" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="16" target="36">
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;" parent="1" source="16" target="36" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="main.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-                    <mxGeometry x="210" y="500" width="300" height="60" as="geometry"/>
+                <mxCell id="16" value="main.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="610" width="300" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="10">
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" parent="1" source="33" target="10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="main.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+                <mxCell id="33" value="main.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="150" width="300" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="600" width="120" height="60" as="geometry"/>
+                <mxCell id="36" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="710" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
