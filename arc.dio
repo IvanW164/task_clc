@@ -26,7 +26,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="&lt;p style=&quot;line-height: 19px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;Настя&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;input_output.py:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;view_data&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;get_value&lt;br&gt;&lt;/font&gt;get_complex_value&lt;br&gt;&lt;font&gt;get_action&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="320" width="300" height="140" as="geometry"/>
+                    <mxGeometry x="220" y="320" width="300" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" style="edgeStyle=none;html=1;" parent="1" source="12" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
